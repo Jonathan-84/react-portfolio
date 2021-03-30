@@ -4,10 +4,10 @@ import Project from '../ProjectCard';
 function Portfolio() {
 	const projects = [
 		{
-			name: 'Pizza Hunt',
+			name: 'Pizza-Hunt',
 			description:
 				'A tool to share your favorite pizza creation with others, see their favorites, and interact with one another',
-			image: 'Pizza-hunt.png',
+			image: 'Pizza-Hunt.PNG',
 			technologies: [
 				'Node.js', 'Mongoose', 'MongoDB', 'Express.js'
 			],
@@ -65,7 +65,7 @@ function Portfolio() {
 			technologies: ['HTML/CSS', 'JavaScript', 'Node.js', 'Express.js', 'Mongoose', 'MongoDB' ],
 			github: 'https://github.com/Jonathan-84/personal-budget-blitz',
 			deployed: 'https://personal-budget-blitz.herokuapp.com/',
-		},
+		}
 	];
 
 	return (

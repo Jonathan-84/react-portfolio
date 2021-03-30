@@ -1,5 +1,5 @@
 import React from 'react';
-import headShot from "../assets/img/My-img8bit-com-Effect (2).jpg";
+import headShot from "../../assets/img/My-img8bit-com-Effect (2).jpg";
 
 
 

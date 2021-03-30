@@ -1,5 +1,5 @@
 import React from 'react';
-import coverImage from "../assets/img/dims.jpg";
+import coverImage from "../../assets/img/dims.jpg";
 import Jumbotron from 'react-bootstrap/Jumbotron';
 //import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
