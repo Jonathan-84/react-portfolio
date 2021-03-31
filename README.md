@@ -26,9 +26,9 @@
   Browse and enjoy!
 
   ## Images
-![Tablet About Me Page] (https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Tablet-About.jpg)
-! [Portfolio, Phone Size] (https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Phone%20Portfolio.jpg)
-![Resume Screenshot] (https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Resume%20SS.jpg)
+![Tablet About Me Page](https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Tablet-About.jpg)
+! [Portfolio, Phone Size](https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Phone%20Portfolio.jpg)
+![Resume Screenshot](https://raw.githubusercontent.com/Jonathan-84/react-portfolio/master/src/assets/img/Resume%20SS.jpg)
   ## Test
 
   ## License
