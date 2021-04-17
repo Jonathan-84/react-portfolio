@@ -15,16 +15,15 @@ function Portfolio() {
       deployed: 'https://quiet-island-89954.herokuapp.com/',
 		},
 		{
-			name: 'Horiseon',
+			name: 'My-Movie-Queue',
 			description:
-				'This is a professionally done, mobile ready website.',
-			image: 'Horiseon resized.png',
+				'Movie-Goers, Cinephiles: Here is the interactive movie app that you need. Save your movies and have fun.',
+			image: 'mmq.PNG',
 			technologies: [
-				'HTML/CSS',
-				'JavaScript'
+				'Node.js', 'Mongoose','JWT', 'MongoDB', 'GrapghQL','Bootstrap', 'Express.js'
 			],
-			github: 'https://github.com/Jonathan-84/urban-octo-telegram',
-			deployed: 'https://jonathan-84.github.io/urban-octo-telegram/',
+			github: 'https://github.com/kesiahp18/my-movie-queue',
+      deployed: 'https://my-movie-queue.herokuapp.com/',
 		},
 		{
 			name: 'Project1906',
