@@ -26,18 +26,6 @@ function Portfolio() {
       deployed: 'https://my-movie-queue.herokuapp.com/',
 		},
 		{
-			name: 'Horiseon',
-			description:
-				'This is a professionally done, mobile ready website.',
-			image: 'Horiseon resized.png',
-			technologies: [
-				'HTML/CSS',
-				'JavaScript'
-			],
-			github: 'https://github.com/Jonathan-84/urban-octo-telegram',
-			deployed: 'https://jonathan-84.github.io/urban-octo-telegram/',
-		},
-		{
 			name: 'Project1906',
 			description:
 				'This web based tool will allow you to quickly get key National Park Information and its forecast with ease.',
