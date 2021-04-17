@@ -18,12 +18,24 @@ function Portfolio() {
 			name: 'My-Movie-Queue',
 			description:
 				'Movie-Goers, Cinephiles: Here is the interactive movie app that you need. Save your movies and have fun.',
-			image: 'mmq.PNG',
+			image: 'Horiseon resized.png',
 			technologies: [
 				'Node.js', 'Mongoose','JWT', 'MongoDB', 'GrapghQL','Bootstrap', 'Express.js'
 			],
 			github: 'https://github.com/kesiahp18/my-movie-queue',
       deployed: 'https://my-movie-queue.herokuapp.com/',
+		},
+		{
+			name: 'Horiseon',
+			description:
+				'This is a professionally done, mobile ready website.',
+			image: 'Horiseon resized.png',
+			technologies: [
+				'HTML/CSS',
+				'JavaScript'
+			],
+			github: 'https://github.com/Jonathan-84/urban-octo-telegram',
+			deployed: 'https://jonathan-84.github.io/urban-octo-telegram/',
 		},
 		{
 			name: 'Project1906',
