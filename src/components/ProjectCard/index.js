@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-import Card from "react-bootstrap/Card";
+//import Card, CardGroup from "react-bootstrap/Card";
+
+import { Card, CardGroup } from 'react-bootstrap';
 
 function Project(props) {
 	// This imports the information for the current project sent down.
@@ -28,11 +30,12 @@ function Project(props) {
 	}
 
 	return (
-		<Card style={{ width: "18rem" }}>
+		<CardGroup>
+		<Card>
 			<Card.Img
 				variant="top"
 				src={require(`../../assets/img/${image}`)}
-				className="card-image"
+				className="card-image img-fluid rounded"
 			/>
 			<div className="center">
 				<Card.Body>
@@ -50,6 +53,7 @@ function Project(props) {
 				</Card.Body>
 			</div>
 		</Card>
+		</CardGroup>
 	);
 }
 

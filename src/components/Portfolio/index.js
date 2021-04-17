@@ -18,7 +18,7 @@ function Portfolio() {
 			name: 'My-Movie-Queue',
 			description:
 				'Movie-Goers, Cinephiles: Here is the interactive movie app that you need. Save your movies and have fun.',
-			image: 'Horiseon resized.png',
+			image: 'mymovie.jpg',
 			technologies: [
 				'Node.js', 'Mongoose','JWT', 'MongoDB', 'GrapghQL','Bootstrap', 'Express.js'
 			],
